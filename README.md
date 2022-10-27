@@ -9,4 +9,4 @@ School assignment to create a rock, paper, scissors application using swing.
 - FlatLaf L&F (https://www.formdev.com/flatlaf/)
 - Icons from (https://icons8.com/)
 
-![image](https://user-images.githubusercontent.com/87245022/198392114-6456aa1d-26c5-491e-87ac-e41bdc8c9d96.png)
+![image](https://user-images.githubusercontent.com/87245022/198392513-717d614e-aafd-4911-9460-992ea5827059.png)
